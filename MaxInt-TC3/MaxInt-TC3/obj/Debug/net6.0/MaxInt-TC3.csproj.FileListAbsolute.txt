@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\bin\Debug\net6.0\MaxInt-TC3.exe
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\bin\Debug\net6.0\MaxInt-TC3.deps.json
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\bin\Debug\net6.0\MaxInt-TC3.runtimeconfig.json
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\bin\Debug\net6.0\MaxInt-TC3.dll
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\bin\Debug\net6.0\MaxInt-TC3.pdb
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\MaxInt-TC3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\MaxInt-TC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\MaxInt-TC3.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\MaxInt-TC3.AssemblyInfo.cs
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\MaxInt-TC3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\MaxInt-TC3.dll
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\refint\MaxInt-TC3.dll
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\MaxInt-TC3.pdb
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\MaxInt-TC3.genruntimeconfig.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxInt-TC3\MaxInt-TC3\obj\Debug\net6.0\ref\MaxInt-TC3.dll
