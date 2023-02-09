@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\bin\Debug\net6.0\MaxMethod-UC4.exe
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\bin\Debug\net6.0\MaxMethod-UC4.deps.json
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\bin\Debug\net6.0\MaxMethod-UC4.runtimeconfig.json
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\bin\Debug\net6.0\MaxMethod-UC4.dll
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\bin\Debug\net6.0\MaxMethod-UC4.pdb
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\MaxMethod-UC4.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\MaxMethod-UC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\MaxMethod-UC4.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\MaxMethod-UC4.AssemblyInfo.cs
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\MaxMethod-UC4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\MaxMethod-UC4.dll
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\refint\MaxMethod-UC4.dll
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\MaxMethod-UC4.pdb
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\MaxMethod-UC4.genruntimeconfig.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\MaxMethod-UC4\MaxMethod-UC4\obj\Debug\net6.0\ref\MaxMethod-UC4.dll
