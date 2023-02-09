@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\Refactor2\Refactor2\obj\Debug\net6.0\Refactor2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\Refactor2\Refactor2\obj\Debug\net6.0\Refactor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\Refactor2\Refactor2\obj\Debug\net6.0\Refactor2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\Refactor2\Refactor2\obj\Debug\net6.0\Refactor2.AssemblyInfo.cs
+C:\Users\USER\source\repos\FindMaximum\FindMaximum\Refactor2\Refactor2\obj\Debug\net6.0\Refactor2.csproj.CoreCompileInputs.cache
